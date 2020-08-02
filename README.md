@@ -17,6 +17,6 @@ My most valuable skill is my passion for development and learns new technologies
 ### 📫 Get in touch
 
 - [Linkedin](https://www.linkedin.com/in/rodolforoc/)
-- [rodolforoc97@gmail.com](rodolforoc97@gmail.com)
+- rodolforoc97@gmail.com
 
 
