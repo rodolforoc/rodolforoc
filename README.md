@@ -13,6 +13,7 @@ My most valuable skill is my passion for development and learns new technologies
 - [React Native](https://reactnative.dev/)
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Flutter](https://flutter.dev/)
 
 ### 📫 Get in touch
 
