@@ -12,6 +12,7 @@ My most valuable skill is my passion for development and learns new technologies
 - [Flutter](https://flutter.dev/)
 - [Python](https://www.python.org/)
 - [ReactJS](https://reactjs.org/)
+- [Cypress](https://www.cypress.io/)
 
 ### 📫 Get in touch
 
