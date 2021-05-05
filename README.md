@@ -4,15 +4,16 @@ I’m studying Computer Science at São Paulo State University (UNESP), and curr
 My most valuable skill is my passion for development and learns new technologies putting these on practice, I enjoy what I do and I put my best into my work.
 
 - :earth_americas: Brazilian
-- 💻 Web Developer
 - 🔭 Software Quality Assurance
+- 💻 Web Developer
 
 ## 🧠 What I am learning on these days
 
-- [Flutter](https://flutter.dev/)
 - [Python](https://www.python.org/)
-- [ReactJS](https://reactjs.org/)
 - [Cypress](https://www.cypress.io/)
+- [Flutter](https://flutter.dev/)
+- [ReactJS](https://reactjs.org/)
+
 
 ### 📫 Get in touch
 
